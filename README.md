@@ -1,6 +1,11 @@
 # Hi there, I'm Adrian (aka @Obscurely)
 
-I'm an **IT Enthusiast**, **Software Engineer**, **Server Administrator**, **Cybersecurity Adept** and **Tech Tinkerer** always trying to get most of my devices and time, learn new skills, automate my life and make it better as much as I can.
+I’m a **passionate** and **dedicated programmer** with a **penchant for exploring** 
+the vast realm of technology. With a **diverse set of skills** and 
+experiences, I’ve ventured into the world of software development using 
+languages such as **Rust, Python, and C#**. My journey in the tech landscape
+ has not only equipped me with coding expertise but has also ignited a 
+**curiosity for all things IT-related**, including the intricate world of **Linux and servers**.
           
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Obscurely&show_icons=true&bg_color=00000000" />
