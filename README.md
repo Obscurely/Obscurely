@@ -1,5 +1,6 @@
 # Hi there, I'm Adrian (aka @Obscurely)
 
+[![Website](https://img.shields.io/badge/Visit_My_Website-adrian.tech-7b2cbf?style=for-the-badge&logo=firefox&logoColor=white)](https://adrian.tech)
 [![Founder of RekoSearch - AI File Search Engine](https://img.shields.io/badge/Founder%20of-RekoSearch%20%7C%20AI%20File%20Search%20Engine-4A90E2?style=for-the-badge&logo=search&logoColor=white)](https://rekosearch.com)
 
 I am a **Full-Stack Developer** specializing in **_Rust_**, **_Python_**, **_React_**, **_TypeScript_**, **_Next.js_**,
