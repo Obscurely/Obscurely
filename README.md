@@ -25,7 +25,7 @@ I am a Software & Cloud Engineer building high-throughput systems with Rust, Pyt
 
 ## Background
 
-My foundation in tech is completely self-taught, starting with bare-metal infrastructure and spanning years of iteratively configuring Linux environments, building specialized virtual machines, and pushing low-level systems to their limits. That foundation naturally evolved into systems programming, where I spent years building high-performance CLI utilities, automation tools, and secure cryptographic applications in Rust and Python. I then combined that knowledge to engineer RekoSearch, a 50,000+ LoC SaaS using AWS, Kubernetes, Rust, and Python. Alongside this, I built a self-hosted 3-node Kubernetes cluster on Proxmox running 50+ live services. Today, I work directly with technical founders and leads to build and deploy resilient, efficient architectures for production workloads.
+My foundation in tech is completely self-taught, starting with bare-metal infrastructure and spanning years of iteratively configuring Linux environments, building specialized virtual machines, and pushing low-level systems to their limits. That foundation naturally evolved into systems programming, where I spent years building high-performance CLI utilities, automation tools, and secure cryptographic applications in Rust and Python. I then combined that knowledge to architect and build RekoSearch, a 50,000+ LoC SaaS using AWS, Kubernetes, Rust, and Python. Alongside this, I built a self-hosted 3-node Kubernetes cluster on Proxmox running 50+ live services. Today, I work directly with technical founders and leads to build and deploy resilient, efficient architectures for production workloads.
 
 ## Contact
 
